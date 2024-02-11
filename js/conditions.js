@@ -16,4 +16,5 @@ let c = prompt("Cni daxil et:");
 // else if (c == "/") {
 //     alert(a / b)
 // };
-alert((c == "*") ? alert(a * b) : (c == "+") ? alert(a + b) : (c == "-") ? alert(a - b) : (c == "/") ? alert(a / b) : alert("Tema kutardi"))
+//(c == "*") ? alert(a * b) : (c == "+") ? alert(a + b) : (c == "-") ? alert(a - b) : (c == "/") ? alert(a / b) : alert("Tema kutardi");
+// alert((c == "*") ? (a * b) : (c == "+") ? (a + b) : (c == "-") ? (a - b) : (c == "/") ? (a / b) : ("sopeti bagla"));
